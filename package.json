@@ -1,7 +1,7 @@
 {
-  "name": "rep-ts-modules",
+  "name": "typescript-seed-simple",
   "version": "1.0.0",
-  "description": "modules ts classes",
+  "description": "typescript seed simple repository",
   "scripts": {
     "start": "rimraf dist && parcel index.html --open",
     "test": "test"
